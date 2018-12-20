@@ -8,3 +8,7 @@
 
 	3.2			-	Linux Scripting and Administration
 	3.3			-	Web Development
+	
+5		-	Continuing Your Python Journey
+
+	5.3			-	Executing Python Code
